@@ -40,10 +40,6 @@ Mediante **Autodocking Vina**, se realiza un docking molecular y se obtiene la p
 
 Arriba puede observarse la posición de PYRRP (verde) de acuerdo al mejor docking en la tabla superior (-8.852 kcal/mol), adyacente al bolsillo molecular (amarillo).
 
-### Simulación de dinámica molecular
-
-Se genera una estructura que incluye DENV y PYRRP en su mejor posición de acuerdo al docking anterior. Con esta estructura, se realiza un ensayo de dinámica molecular.
-
 ## Inspiración
 
 Basada en el paper [The Computation of Cyclic Peptide with Prolin-Prolin Bond as Fusion Inhibitor of DENV Envelope Protein through Molecular Docking and Molecular Dynamics Simulation](https://arxiv.org/abs/1511.01388):
